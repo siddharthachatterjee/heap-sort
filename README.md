@@ -5,4 +5,4 @@ Heap Sort is an efficient sorting algorithm(O(n log n)), considered as an improv
 
 For more detailed information, watch my tutorial at [https://youtu.be/9yg8F819OCs](https://youtu.be/9yg8F819OCs).
 
-I also added a pdf version of my presentation in this repository 
+I also added a [pdf version of my presentation](https://github.com/siddharthachatterjee/heap-sort/blob/main/Heap%20Sort.pdf) in this repository.
